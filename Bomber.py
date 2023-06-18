@@ -10,7 +10,7 @@ def Axak(xak):
 		
 
 logo = 
- ("""
+"""
 \t\033[38;5;46m╭━━━┳━━━┳╮╱╱╭┳━━━┳╮
 \t\033[38;5;46m┃╭━╮┃╭━╮┃╰╮╭╯┃╭━━┫┃
 \t\033[38;5;46m┃╰━╯┃┃╱┃┣╮╰╯╭┫╰━━┫┃
@@ -32,7 +32,7 @@ logo =
 \033[1;32m[-] GITHUB    :\033[1;32m ROYEL CYBER
 \033[1;32m[-] FACEBOOK  :\033[1;32m GR ALEX
 
-""")
+"""
 
 
 letters = string.ascii_lowercase
