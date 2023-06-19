@@ -8,8 +8,7 @@ def Axak(xak):
 		sys.stdout.write(x)
 		sys.stdout.flush()
 		
-
-logo = 
+logo=
 """
 \t\033[38;5;46m╭━━━┳━━━┳╮╱╱╭┳━━━┳╮
 \t\033[38;5;46m┃╭━╮┃╭━╮┃╰╮╭╯┃╭━━┫┃
